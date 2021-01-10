@@ -1,0 +1,38 @@
+ h1{
+	color:white ;
+}
+
+ img  {
+	width:500px;
+	height: 230px;
+}
+
+body {
+	background-color: #276F8E ; 
+}
+
+
+p {
+	color: white ;
+	font-size: 35px ; 
+}
+
+/* menu presentation */
+
+.menu {
+
+}
+
+.menu > li {
+	display: inline;
+	text-align: center;
+	margin: 10px ; 
+
+}
+
+a {
+	text-decoration:;
+	color: black ; 
+	font-size: 35px ; 
+
+}

@@ -1,0 +1,24 @@
+ h1{
+	color: white ;
+}
+body {
+	background-color: #276F8E ; 
+}
+
+/* menu de presentation */
+
+.menu {
+
+}
+
+.menu > li {
+	display: inline;
+	margin: 10px;
+	text-align: center;
+}
+
+a {
+	text-decoration:;
+	font-size: 35px;
+	color: black ;  
+}

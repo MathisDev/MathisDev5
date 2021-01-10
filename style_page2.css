@@ -1,0 +1,66 @@
+
+
+
+
+
+
+  h1{
+	color:white;  
+}
+
+
+body {
+	background-color: #276F8E ; 
+}
+
+
+a {
+	margin: 20px ; 
+} 
+
+/* liste des image url */
+
+.ref {
+	margin: 10px ; 
+}
+
+.refA {
+	margin: 30px ; 
+}
+
+ li {
+ 	display: inline-block;
+ 	margin: 0px ; 
+ }
+
+
+/* menu de presentation haut */
+
+
+ .menu {
+  	text-align: center;
+ }
+
+
+ .menu > li {
+ 	text-align: center;
+ 	display: inline ; 
+	
+ }
+
+
+ a {
+ 	text-decoration:; 
+ 	color: black ; 
+ 	font-size: 35px ; 
+ }
+
+
+
+
+
+
+
+
+
+

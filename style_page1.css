@@ -1,0 +1,36 @@
+h1{
+	color: white  ;
+}
+
+body {
+	background-color: #276F8E ; 
+}
+
+
+/* menu presentation */ 
+
+.menu {
+	text-align : center ;
+
+}
+
+.menu > li {
+	display: inline; 
+	margin: 10px ; 
+
+}
+
+a {
+text-decoration:; 
+font-size: 35px ; 
+color: black ; 
+}
+
+b {
+	font-size: 35px ; 
+}
+/*fin du menu de presentation */
+
+h1 {
+	margin-bottom: 30px ; 
+}
